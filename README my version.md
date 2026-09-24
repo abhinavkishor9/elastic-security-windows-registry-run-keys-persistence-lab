@@ -109,7 +109,6 @@ Adobe Acrobat Synchronizer
 MicrosoftEdgeAutoLaunch_*
 OneDrive
 Mozilla-Firefox-*
-MEmuSVC
 MicrosoftCopilotAutoLaunch_*
 ```
 
